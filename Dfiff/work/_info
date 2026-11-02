@@ -1,0 +1,253 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dV:/FPGA/ModelSim/Projects/Dfiff
+vd_flip_flop
+!s110 1793610584
+!i10b 1
+!s100 89;ejIOWcdGkodoFhH3K@3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I3Ez:]<M8e8EF@@fbehedV3
+R0
+w1793610485
+8d_flip_flop.v
+Fd_flip_flop.v
+!i122 13
+L0 2 15
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2020.3;71
+r1
+!s85 0
+31
+!s108 1793610584.000000
+!s107 d_flip_flop.v|
+!s90 -reportprogress|300|d_flip_flop.v|
+!i113 1
+Z4 tCvgOpt 0
+vdff
+!s110 1793594473
+!i10b 1
+!s100 Hg>?3C8@mJLQb@dK5oJ3c2
+R1
+Ik6?a_f>EH>l5WBUG17Y8?3
+R0
+w1793594325
+8diff.v
+Fdiff.v
+!i122 0
+L0 1 16
+R2
+R3
+r1
+!s85 0
+31
+!s108 1793594473.000000
+!s107 diff.v|
+!s90 -reportprogress|300|diff.v|
+!i113 1
+R4
+vdff_tb
+!s110 1793594492
+!i10b 1
+!s100 <X>UCYi81eT0j_QRSRl?Z2
+R1
+IOo]GnIljZoS^1dk41ALPk2
+R0
+w1793594259
+8dff_tb.v
+Fdff_tb.v
+!i122 1
+L0 1 83
+R2
+R3
+r1
+!s85 0
+31
+!s108 1793594492.000000
+!s107 dff_tb.v|
+!s90 -reportprogress|300|dff_tb.v|
+!i113 1
+R4
+vfour_bit_full_adder
+Z5 !s110 1793610577
+!i10b 1
+!s100 EnGE=^?=HK^mP4hbo?V<n0
+R1
+I?S6[GzK?ehmQX<ShYVYk^2
+R0
+Z6 w1793610473
+Z7 84_bit_full_adder.v
+Z8 F4_bit_full_adder.v
+!i122 12
+L0 16 47
+R2
+R3
+r1
+!s85 0
+31
+Z9 !s108 1793610577.000000
+Z10 !s107 4_bit_full_adder.v|
+Z11 !s90 -reportprogress|300|4_bit_full_adder.v|
+!i113 1
+R4
+vfull_adder_1bit
+R5
+!i10b 1
+!s100 =3PI5b`ZkQn_R4X@bOf4@0
+R1
+IV[0hcY16bbQeNah[WO?bo3
+R0
+R6
+R7
+R8
+!i122 12
+L0 2 12
+R2
+R3
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R4
+vfull_adder_4bit
+!s110 1793610312
+!i10b 1
+!s100 XaJRX:gCEU3^9HA2G=RYQ3
+R1
+I@1mEoBz5UU`oOJjB5@mD52
+R0
+w1793610220
+8full.v
+Ffull.v
+!i122 10
+L0 1 29
+R2
+R3
+r1
+!s85 0
+31
+!s108 1793610312.000000
+!s107 full.v|
+!s90 -reportprogress|300|full.v|
+!i113 1
+R4
+vfull_adder_4bit_tb
+!s110 1793610320
+!i10b 1
+!s100 bk2He:^M:0Xb[mWG>QVj91
+R1
+I_XEXmV3_IGo]FBVG3UR@c3
+R0
+w1793610256
+8full_tb.v
+Ffull_tb.v
+!i122 11
+L0 1 103
+R2
+R3
+r1
+!s85 0
+31
+!s108 1793610320.000000
+!s107 full_tb.v|
+!s90 -reportprogress|300|full_tb.v|
+!i113 1
+R4
+vfull_adder_with_register
+!s110 1793610596
+!i10b 1
+!s100 KX<OoBLn7I9B4dAiZR;O=3
+R1
+IfjQc7;;AG52RlMCJdmL>e3
+R0
+w1793610476
+84_bit_full_adder_register.v
+F4_bit_full_adder_register.v
+!i122 14
+L0 2 70
+R2
+R3
+r1
+!s85 0
+31
+!s108 1793610596.000000
+!s107 4_bit_full_adder_register.v|
+!s90 -reportprogress|300|4_bit_full_adder_register.v|
+!i113 1
+R4
+vhalf_adder_4bit
+!s110 1793609860
+!i10b 1
+!s100 :JQ[`NcdEQOV0:zn=]?Wb3
+R1
+IejTX4g`LR_0PO@dDUz70d3
+R0
+w1793599643
+8half_adder_4bit.v
+Fhalf_adder_4bit.v
+!i122 8
+L0 1 26
+R2
+R3
+r1
+!s85 0
+31
+!s108 1793609860.000000
+!s107 half_adder_4bit.v|
+!s90 -reportprogress|300|half_adder_4bit.v|
+!i113 1
+R4
+vhalf_adder_4bit_tb
+!s110 1793609868
+!i10b 1
+!s100 ^X]mYRzmGn[5gmdAU5]V33
+R1
+I_]7U`AKIWFlD:V6:15DBg1
+R0
+w1793609826
+8half_adder_4bit_tb.v
+Fhalf_adder_4bit_tb.v
+!i122 9
+L0 1 92
+R2
+R3
+r1
+!s85 0
+31
+!s108 1793609868.000000
+!s107 half_adder_4bit_tb.v|
+!s90 -reportprogress|300|half_adder_4bit_tb.v|
+!i113 1
+R4
+vtb_full_adder_with_register
+!s110 1793610604
+!i10b 1
+!s100 Ykz:G=ALbM]^azP<>f]]=1
+R1
+Id6NTXHU<b3gn]4EBGh;fg0
+R0
+w1793610481
+84_bit_full_adder_register_tb.v
+F4_bit_full_adder_register_tb.v
+!i122 15
+L0 4 109
+R2
+R3
+r1
+!s85 0
+31
+!s108 1793610604.000000
+!s107 4_bit_full_adder_register_tb.v|
+!s90 -reportprogress|300|4_bit_full_adder_register_tb.v|
+!i113 1
+R4

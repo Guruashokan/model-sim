@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dV:/FPGA/ModelSim/Projects/Half Adder
+vhalf_adder_4bit
+!s110 1793442668
+!i10b 1
+!s100 a[Dob`ZIbX1iPHSb67FP83
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I_cJ6TOLa>GF]gOP=MMZja3
+R0
+w1793442323
+8Halfadder.v
+FHalfadder.v
+!i122 1
+L0 2 10
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2020.3;71
+r1
+!s85 0
+31
+!s108 1793442667.000000
+!s107 Halfadder.v|
+!s90 -reportprogress|300|Halfadder.v|
+!i113 1
+Z4 tCvgOpt 0
+vhalf_adder_4bit_tb
+!s110 1793442673
+!i10b 1
+!s100 I3oD3N@:IEzQcf>8fVkk]1
+R1
+IG59mCo?a@GAHaIOQKOzhd2
+R0
+w1793442356
+8Halfadder_tb.v
+FHalfadder_tb.v
+!i122 2
+L0 2 30
+R2
+R3
+r1
+!s85 0
+31
+!s108 1793442673.000000
+!s107 Halfadder_tb.v|
+!s90 -reportprogress|300|Halfadder_tb.v|
+!i113 1
+R4
