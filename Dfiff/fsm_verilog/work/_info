@@ -1,0 +1,99 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dV:/FPGA/ModelSim/Projects/Dfiff/fsm_verilog
+vtraffic_light
+Z1 !s110 1793681263
+!i10b 1
+!s100 6[FRH[VM<:bZ?33ZZJUMW0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I2_XD_9:4HC^DEDU0c[0=_3
+R0
+w1793680944
+8traffic_light.v
+Ftraffic_light.v
+!i122 2
+L0 2 81
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OV;L;2020.3;71
+r1
+!s85 0
+31
+!s108 1793681262.000000
+!s107 traffic_light.v|
+!s90 -reportprogress|300|traffic_light.v|
+!i113 1
+Z5 tCvgOpt 0
+vtraffic_light_tb
+R1
+!i10b 1
+!s100 bN:LWbhcCkBT_bUNi20_k3
+R2
+IcI:DbE:JA`jaPOI1VJSFL2
+R0
+w1793681170
+8traffic_light_tb.v
+Ftraffic_light_tb.v
+!i122 3
+L0 2 33
+R3
+R4
+r1
+!s85 0
+31
+!s108 1793681263.000000
+!s107 traffic_light_tb.v|
+!s90 -reportprogress|300|traffic_light_tb.v|
+!i113 1
+R5
+vwashing_machine
+Z6 !s110 1793679287
+!i10b 1
+!s100 W?T89z1XCXaHFSC^HPJDJ1
+R2
+IU7dlnHCQhfa:b;:NMYRC:2
+R0
+Z7 w1793617624
+8washing_machine.v
+Fwashing_machine.v
+!i122 0
+L0 1 93
+R3
+R4
+r1
+!s85 0
+31
+!s108 1793679286.000000
+!s107 washing_machine.v|
+!s90 -reportprogress|300|washing_machine.v|
+!i113 1
+R5
+vwashing_machine_tb
+R6
+!i10b 1
+!s100 mkFz8=Rfm:@7aY06H`o6?0
+R2
+Id0OK^XlE4>]P`AhiJc41a0
+R0
+R7
+8washing_machine_tb.v
+Fwashing_machine_tb.v
+!i122 1
+L0 3 109
+R3
+R4
+r1
+!s85 0
+31
+!s108 1793679287.000000
+!s107 washing_machine_tb.v|
+!s90 -reportprogress|300|washing_machine_tb.v|
+!i113 1
+R5
